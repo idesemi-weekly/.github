@@ -1,7 +1,5 @@
-# Compile your works!
+# この organisaton について
 
-1. Ask for the registration of your account to the organisation.
-2. Fork your working repository here.
-3. Keep updating it by commit/push.
+この organisation は、多摩大学経営情報学部出原研究室によって運用されています。学生個人やチームによるプロジェクトの管理・指導を行っています。
 
-
+研究室卒業生などで、メンバーのアクセス権を希望する人は、@norm-ideal までご連絡ください。
